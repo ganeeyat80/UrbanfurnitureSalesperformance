@@ -18,7 +18,8 @@ To solve this, a centralized **Microsoft Excel dashboard** was developed to trac
 
 ##  Dashboard Highlights
 
-![Furniture Sales Dashboard](7c2b8e1e-4645-42b6-867e-67d8cb8ad7d5.png)
+ <img width="1328" height="666" alt="Furniture Sales Overview" src="https://github.com/user-attachments/assets/8f4840b4-47ac-40d4-975e-aaa6567b4192" />
+
 
 - **Sales KPIs**: 
   -  **Total Sales**: $215.4K (▲ 8% YoY)
