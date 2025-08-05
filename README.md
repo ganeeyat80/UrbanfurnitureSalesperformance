@@ -1,15 +1,13 @@
-# UrbanfurnitureSalesperformance
+# UrbanFurnish Co. – Furniture Sales Performance Dashboard
 
-# 🪑 UrbanFurnish Co. – Furniture Sales Performance Dashboard
-
-## 📌 Project Summary
+##  Project Summary
 UrbanFurnish Co. is a national retail company specializing in the distribution of furniture products across the United States. With an expanding customer base and a wide product range—**tables, chairs, bookcases, and home furnishings**—the company faced challenges in converting raw data into **actionable insights** for smarter operations.
 
 To solve this, a centralized **Microsoft Excel dashboard** was developed to track key metrics, visualize sales trends, and monitor shipping efficiency—empowering the team with **real-time business intelligence**.
 
 ---
 
-## 🚀 Objectives
+##  Objectives
 
 - Transform fragmented sales and shipping data into a unified reporting tool.
 - Enable stakeholders to monitor performance by **category**, **region**, and **shipping mode**.
@@ -18,14 +16,14 @@ To solve this, a centralized **Microsoft Excel dashboard** was developed to trac
 
 ---
 
-## 📈 Dashboard Highlights
+##  Dashboard Highlights
 
 ![Furniture Sales Dashboard](7c2b8e1e-4645-42b6-867e-67d8cb8ad7d5.png)
 
 - **Sales KPIs**: 
-  - 💰 **Total Sales**: $215.4K (▲ 8% YoY)
-  - 📦 **Quantity Sold**: 2.4K (▲ 11% YoY)
-  - 📈 **Profit**: $3.0K (▲ 57% YoY)
+  -  **Total Sales**: $215.4K (▲ 8% YoY)
+  -  **Quantity Sold**: 2.4K (▲ 11% YoY)
+  -  **Profit**: $3.0K (▲ 57% YoY)
 
 - **Sales Trend Analysis**: December recorded peak performance with **$121.8K** in sales.
 
@@ -40,7 +38,7 @@ To solve this, a centralized **Microsoft Excel dashboard** was developed to trac
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Microsoft Excel**
   - PivotTables & PivotCharts
@@ -51,7 +49,7 @@ To solve this, a centralized **Microsoft Excel dashboard** was developed to trac
 
 ---
 
-## 🎯 Business Impact
+##  Business Impact
 
 ### 1. **Improved Decision-Making**
 Real-time visualization enables **faster response** to market trends and supports data-driven strategies.
@@ -64,7 +62,7 @@ A single source of truth minimizes manual reporting and helps identify bottlenec
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 
 This project helped sharpen skills in:
 
@@ -75,6 +73,6 @@ This project helped sharpen skills in:
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 
